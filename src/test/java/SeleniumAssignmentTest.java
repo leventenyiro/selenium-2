@@ -1,7 +1,5 @@
 import static org.junit.Assert.assertTrue;
 
-import java.net.MalformedURLException;
-
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
